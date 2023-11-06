@@ -1,0 +1,115 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United Kingdom) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENG)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "C:\\Users\\lampr\\source\\repos\\Gatekeeper\\Gatekeeper\\resources\\sva_logo.ico"
+
+IDI_ICON2               ICON                    "C:\\Users\\lampr\\source\\repos\\Gatekeeper\\Gatekeeper\\resources\\x.ico"
+
+IDI_ICON3               ICON                    "C:\\Users\\lampr\\source\\repos\\Gatekeeper\\Gatekeeper\\resources\\edit.ico"
+
+IDI_ICON4               ICON                    "C:\\Users\\lampr\\source\\repos\\Gatekeeper\\Gatekeeper\\resources\\deactivated.ico"
+
+IDI_ICON5               ICON                    "C:\\Users\\lampr\\source\\repos\\Gatekeeper\\Gatekeeper\\resources\\search.ico"
+
+IDI_ICON6               ICON                    "C:\\Users\\lampr\\source\\repos\\Gatekeeper\\Gatekeeper\\resources\\checkmark-128.ico"
+
+IDI_ICON7               ICON                    "C:\\Users\\lampr\\source\\repos\\Gatekeeper\\Gatekeeper\\resources\\plus-128.ico"
+
+IDI_ICON8               ICON                    "C:\\Users\\lampr\\source\\repos\\Gatekeeper\\Gatekeeper\\resources\\load.ico"
+
+IDI_ICON9               ICON                    "resources\\right-arrow.ico"
+
+IDI_ICON10              ICON                    "resources\\activated.ico"
+
+IDI_ICON11              ICON                    "resources\\informed.ico"
+
+IDI_ICON12              ICON                    "resources\\leave.ico"
+
+IDI_ICON13              ICON                    "resources\\perma-leave.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "resources\\sva-logo-full.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_ACCELERATOR1 ACCELERATORS
+BEGIN
+    VK_TAB,         ID_ACCELERATOR40001,    VIRTKEY, CONTROL, NOINVERT
+    VK_TAB,         ID_ACCELERATOR40003,    VIRTKEY, SHIFT, NOINVERT
+END
+
+#endif    // English (United Kingdom) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
